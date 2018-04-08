@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.validation.Valid;
 
 /**
- * Created by z013hmy on 4/3/18.
+ * Created on 4/3/18.
  */
 @RestController
 @RequestMapping(value = "/v1/events")
