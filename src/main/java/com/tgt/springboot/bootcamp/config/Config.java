@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
 /**
- * Created by z013hmy on 4/4/18.
+ * Created on 4/4/18.
  */
 @Configuration
 public class Config {
