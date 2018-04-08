@@ -18,7 +18,7 @@ import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.when;
 
 /**
- * Created by z013hmy on 4/3/18.
+ * Created on 4/3/18.
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = {EventService.class})
