@@ -6,7 +6,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 import java.util.Objects;
 
 /**
- * Created by z013hmy on 4/3/18.
+ * Created on 4/3/18.
  */
 public class EventDto {
 
