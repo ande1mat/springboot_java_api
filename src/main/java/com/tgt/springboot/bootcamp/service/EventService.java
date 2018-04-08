@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * Created by z013hmy on 4/3/18.
+ * Created on 4/3/18.
  */
 @Service
 public class EventService {
