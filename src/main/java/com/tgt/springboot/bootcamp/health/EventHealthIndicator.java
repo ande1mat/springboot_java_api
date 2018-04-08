@@ -5,7 +5,7 @@ import org.springframework.boot.actuate.health.HealthIndicator;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by z013hmy on 4/4/18.
+ * Created on 4/4/18.
  */
 @Component
 public class EventHealthIndicator implements HealthIndicator {
