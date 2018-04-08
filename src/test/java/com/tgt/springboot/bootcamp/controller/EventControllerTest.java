@@ -26,7 +26,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 /**
- * Created by z013hmy on 4/3/18.
+ * Created on 4/3/18.
  */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = {EventController.class})
